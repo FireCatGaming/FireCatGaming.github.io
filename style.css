@@ -1,0 +1,26 @@
+#yes {
+    background-color: green;
+    color: white;
+}
+
+#no {
+
+    background-color: red;
+    color: white;
+}
+.text{
+    display: flex;
+    justify-content: center;
+
+}
+.text-button{
+    text-align: center;
+    margin-right: 120px;
+}
+.btn{
+    padding: 12px 28px;
+    margin: 20px;
+}
+.gif-valentine{
+    text-align: center;
+}
